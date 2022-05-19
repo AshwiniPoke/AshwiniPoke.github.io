@@ -41,7 +41,7 @@ body {
 }
 
 .sec1_bgimg {
-    background: transparent url("../Adobe-UI-Assessment/images/bgimg1.png") right;
+    background: transparent url("../images/bgimg1.png") right;
     background-repeat: no-repeat;
     opacity: 1;
     height: 73vh;
@@ -50,7 +50,7 @@ body {
 }
 
 .overlapImg {
-    background: url("../Adobe-UI-Assessment/images/plant1.png")200px;
+    background: url("../images/plant1.png")200px;
     background-repeat: no-repeat;
     opacity: 1;
     height: 100%;
@@ -59,7 +59,7 @@ body {
 }
 
 .overlapImg2 {
-    background: url("../Adobe-UI-Assessment/images/plant2.png")420px;
+    background: url("../images/plant2.png")420px;
     background-repeat: no-repeat;
     opacity: 1;
     height: 100%;
@@ -68,7 +68,7 @@ body {
 }
 
 .overlapImg3 {
-    background: url("../Adobe-UI-Assessment/images/ezcema.png")370px;
+    background: url("../images/ezcema.png")370px;
     background-repeat: no-repeat;
     opacity: 1;
     height: 110%;
@@ -144,7 +144,7 @@ padding-left: 10%;
 }
 
 .sec3_bgimg2 {
-    background: url("../Adobe-UI-Assessment/images/man_in_blue.png");
+    background: url("../images/man_in_blue.png");
     background-repeat: no-repeat;
     object-fit: cover;
     opacity: 1;
@@ -211,7 +211,7 @@ li {
 }
 
 .sec5bgimg {
-    background: url("../Adobe-UI-Assessment/images/hand_with_bracelate.png") center;
+    background: url("../images/hand_with_bracelate.png") center;
     background-repeat: no-repeat;
     opacity: 1;
     height: 95vh;
@@ -370,7 +370,7 @@ hr {
     }
 
     .sec1_bgimg {
-        background: transparent url(../Adobe-UI-Assessment/images/bgimg1.png) -280px;
+        background: transparent url(../images/bgimg1.png) -280px;
         background-repeat: no-repeat;
         opacity: 1;
         height: 70vh;
@@ -379,7 +379,7 @@ hr {
     }
 
     .overlapImg {
-        background: url(../Adobe-UI-Assessment/images/plant1.png)7px;
+        background: url(../images/plant1.png)7px;
         background-repeat: no-repeat;
         opacity: 1;
         height: 100%;
@@ -388,7 +388,7 @@ hr {
     }
 
     .overlapImg2 {
-        background: url(../Adobe-UI-Assessment/images/plant2.png)170px;
+        background: url(../images/plant2.png)170px;
         background-repeat: no-repeat;
         opacity: 1;
         height: 100%;
@@ -397,7 +397,7 @@ hr {
     }
 
     .overlapImg3 {
-        background: url(../Adobe-UI-Assessment/images/ezcema.png)147px 242px;
+        background: url(../images/ezcema.png)147px 242px;
         background-repeat: no-repeat;
         opacity: 1;
         height: 100%;
